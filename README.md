@@ -82,3 +82,5 @@ ale jak potwor go walnie
 ---------------------
 | | | | | | | | |
 ->_> 50% hp aktualnego
+
+s
